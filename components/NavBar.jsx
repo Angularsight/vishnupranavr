@@ -7,7 +7,7 @@ export default function NavBar() {
   return (
     <header className=' md:sticky top-0 justify-between max-w-7xl mx-auto z-20'> 
 
-        <div className='flex flex-row items-center justify-between mx-5 md:mx-10 my-5'>
+        <div className='flex flex-row items-center justify-between mx-5 md:mx-10 '>
 
             <motion.div
                 initial ={{

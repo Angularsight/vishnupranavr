@@ -6,7 +6,6 @@ export default function Footer() {
 
   const { register, handleSubmit} = useForm();
   const onSubmit = data => {
-    window.location.href = `mailto:angularsight77@gmail.com?subject=${data.phoneNo}&body=${data.message}`
   };
 
 
