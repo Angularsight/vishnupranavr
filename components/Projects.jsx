@@ -54,6 +54,7 @@ export default function Projects() {
 
         <div className='mt-2 flex flex-row justify-start items-center space-x-4'>
           
+
           <Image className='h-10 w-10 p-1 cursor-pointer object-contain rounded-full border border-cyan-300' src={flutter} alt=''/>
           <Image className='h-10 w-10 p-1 cursor-pointer object-cover rounded-full border border-cyan-300' src={metamask} alt=''/>
           <Image className='h-10 w-10 p-1 cursor-pointer object-cover rounded-full border border-cyan-300' src={solidity} alt=''/>
@@ -96,9 +97,7 @@ export default function Projects() {
             </div>
 
             <h2 className='mt-7 text-cyan-400 font-mono font-medium'>Brief</h2>
-            <div className=' overflow-ellipsis text-[11px] text-white/75'>Leagues is a party meets dating community startup. We arrange parties for the purpose 
-            of dating which includes soothing ambience along with games, food , beverages and new photogenic spots. Partying and dating has 
-            become part of current generation's lifestyle. We at Leagues try to provide the best experience to our users who are looking forward to such lifestyle.</div>
+            <div className=' overflow-ellipsis text-[11px] text-white/75'>Leagues is a party meets dating community startup. We arrange parties for the purpose of dating which includes soothing ambience along with games, food , beverages and new photogenic spots. Partying and dating has become part of current generation's lifestyle. We at Leagues try to provide the best experience to our users who are looking forward to such lifestyle.</div>
     
           </div>
           
@@ -129,10 +128,7 @@ export default function Projects() {
             </div>
 
             <h2 className='mt-7 text-cyan-400 font-mono font-medium'>Brief</h2>
-            <div className=' overflow-ellipsis text-[11px] text-white/75'>Carrying bags and navigating through airport in a short span of a time is some what of a problem. To solve this problem we have created an app which allows users to book buggy's and trolley's 
-              which would take care of them and their bags right after check-in. 
-              Airportify is delivering and ensuring your comfort, whether you’re arriving, departing, going to receive or pick your loved ones.
-              Our Porter team will ease your journey where you don’t need to drag or load your luggage to the airport hassle’s. Also helps you get the loading & off-loading with reliability by saving your energy that gets wasted on unnecessary actions. </div>
+            <div className=' overflow-ellipsis text-[11px] text-white/75'>Carrying bags and navigating through airport in a short span of a time is some what of a problem. To solve this problem we have created an app which allows users to book buggy's and trolley's which would take care of them and their bags right after check-in. Airportify is delivering and ensuring your comfort, whether you’re arriving, departing, going to receive or pick your loved ones.Our Porter team will ease your journey where you don’t need to drag or load your luggage to the airport hassle’s. Also helps you get the loading & off-loading with reliability by saving your energy that gets wasted on unnecessary actions. </div>
     
           </div>
           
@@ -165,8 +161,7 @@ export default function Projects() {
             </div>
 
             <h2 className='mt-7 text-cyan-400 font-mono font-medium'>Brief</h2>
-            <div className=' overflow-ellipsis text-[11px] text-white/75'>Usurper Apps is founded with the intention of adding more crisp and flavor to app development field 
-            by introducing 3D, trending designs and over the top UX to apps</div>
+            <div className=' overflow-ellipsis text-[11px] text-white/75'>Usurper Apps is founded with the intention of adding more crisp and flavor to app development field by introducing 3D, trending designs and over the top UX to apps</div>
           
           </div>
 
@@ -196,11 +191,7 @@ export default function Projects() {
             </div>
 
             <h2 className='mt-7 text-cyan-400 font-mono font-medium'>Brief</h2>
-            <div className=' overflow-ellipsis text-[11px] text-white/75'>Thrift shop is basically built for small clothing shops who have difficult time in marketing their products. Thrift shop app 
-              provides a platform for all these people who 
-              tend to find customers on a daily basis and are looking to expand their business.
-              Multiple thrift stores in India have shops set up on Instagram. They are quickly and vehemently spreading the anti-fast fashion movement. All the things these small business owners sell 
-              are pre-loved and sometimes quirky.</div>
+            <div className=' overflow-ellipsis text-[11px] text-white/75'>Thrift shop is basically built for small clothing shops who have difficult time in marketing their products. Thrift shop app provides a platform for all these people who tend to find customers on a daily basis and are looking to expand their business.Multiple thrift stores in India have shops set up on Instagram. They are quickly and vehemently spreading the anti-fast fashion movement. All the things these small business owners sell are pre-loved and sometimes quirky.</div>
           
           </div>
 

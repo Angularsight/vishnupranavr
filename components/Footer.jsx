@@ -16,9 +16,7 @@ export default function Footer() {
       <h1 className=' mt-10 mb-5 text-2xl text-white/50 font-medium uppercase tracking-[10px] text-center'>
         Contact
       </h1>
-      <h1 className=' mt-10 mb-10 text-2xl text-white font-medium  text-center'>
-        I've got the skills. You've got the need. <br />
-        Lets Talk 😀
+      <h1 className=' mt-10 mb-10 text-2xl text-white font-medium  text-center'>I've got the skills. You've got the need. <br />Lets Talk 😀
       </h1>
 
 
