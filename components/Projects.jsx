@@ -94,7 +94,7 @@ export default function Projects() {
             </div>
 
             <h2 className='mt-7 text-cyan-400 font-mono font-medium'>Brief</h2>
-            <div className=' overflow-ellipsis text-[11px] text-white/75'>Leagues is a party meets dating community startup. We arrange parties for the purpose of dating which includes soothing ambience along with games, food , beverages and new photogenic spots. Partying and dating has become part of current generation's lifestyle. We at Leagues try to provide the best experience to our users who are looking forward to such lifestyle.</div>
+            <div className=' overflow-ellipsis text-[11px] text-white/75'>Leagues is a party meets dating community startup. We arrange parties for the purpose of dating which includes soothing ambience along with games, food , beverages and new photogenic spots. Partying and dating has become part of current generations lifestyle. We at Leagues try to provide the best experience to our users who are looking forward to such lifestyle.</div>
     
           </div>
           
@@ -125,7 +125,7 @@ export default function Projects() {
             </div>
 
             <h2 className='mt-7 text-cyan-400 font-mono font-medium'>Brief</h2>
-            <div className=' overflow-ellipsis text-[11px] text-white/75'>Carrying bags and navigating through airport in a short span of a time is some what of a problem. To solve this problem we have created an app which allows users to book buggy's and trolley's which would take care of them and their bags right after check-in. Airportify is delivering and ensuring your comfort, whether you’re arriving, departing, going to receive or pick your loved ones.Our Porter team will ease your journey where you don’t need to drag or load your luggage to the airport hassle’s. Also helps you get the loading & off-loading with reliability by saving your energy that gets wasted on unnecessary actions. </div>
+            <div className=' overflow-ellipsis text-[11px] text-white/75'>Carrying bags and navigating through airport in a short span of a time is some what of a problem. To solve this problem we have created an app which allows users to book buggys and trolleys which would take care of them and their bags right after check-in. Airportify is delivering and ensuring your comfort, whether youre arriving, departing, going to receive or pick your loved ones.Our Porter team will ease your journey where you dont need to drag or load your luggage to the airport hassles. Also helps you get the loading & off-loading with reliability by saving your energy that gets wasted on unnecessary actions. </div>
     
           </div>
           
